@@ -1,4 +1,4 @@
-{% set version = "1.6.1" %}
+{% set version = "1.6.2" %}
 
 package:
   name: robotframework-tidy
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/r/robotframework-tidy/robotframework-tidy-{{ version }}.tar.gz
-  sha256: 016a64ad6e8c44fb923d9e3811c47af0e56340a7e9e01df6695309f9a3fec193
+  sha256: f851c7e0e473820a2e82bdfd322b0d72c7e25043e5a58af48da636af9d23f2db
 
 build:
   number: 0
