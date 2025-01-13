@@ -9,6 +9,8 @@ Package license: Apache-2.0
 
 Summary: Code autoformatter for Robot Framework
 
+Documentation: https://robotidy.readthedocs.io
+
 Current build status
 ====================
 
